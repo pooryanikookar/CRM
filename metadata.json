@@ -1,0 +1,6 @@
+{
+  "name": "Persian CRM Email Generator",
+  "description": "A CRM application that follows a step-by-step sales and marketing workflow, using the Gemini API to generate internal and external communication emails based on form data. The application is designed with a modern, clean UI in Farsi (RTL).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
